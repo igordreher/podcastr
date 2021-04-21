@@ -2,6 +2,7 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    overflow: hidden;
 }
 
 :root {
@@ -19,6 +20,13 @@
     --purple-400: #9164FA; 
     --purple-500: #8257E5;
     --purple-800: #6F48C9;
+}
+
+@media (max-width: 1366) {
+    html {
+        max-width: 1366;
+        font-size: 80%;
+    }
 }
 
 @media (max-width: 1080px) {
