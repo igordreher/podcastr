@@ -1,4 +1,10 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Podcastr
+
+## Preview
+<img src="https://user-images.githubusercontent.com/62728088/153714031-cfa20e27-bbcb-40b5-bd14-8f02d40c6b63.png" width="50%" height="50%" />
+<img src="https://user-images.githubusercontent.com/62728088/153714036-ead70b6d-4b51-49d7-8954-32c56b16621a.png" width="50%" height="50%" />
+
+--- 
 
 ## Getting Started
 
@@ -17,14 +23,3 @@ yarn dev
 ```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
